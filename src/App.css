@@ -1,0 +1,20 @@
+.alert {
+  text-align: center;
+  background-color: #006CFF;
+  color: #fff;
+  padding: 15px;
+}
+
+.alert p {
+  margin: 0;
+}
+
+.alert button {
+  background-color: transparent;
+  border: none;
+  font-size: inherit;
+  color: inherit;
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+}
